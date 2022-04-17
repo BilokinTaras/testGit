@@ -10,3 +10,4 @@ decr--;
 console.log(++incr);
 console.log(--decr);
 console.log(7%2);
+console.log(9%2);
